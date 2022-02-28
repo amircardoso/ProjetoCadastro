@@ -1,0 +1,6 @@
+c:\users\william\source\repos\_01_Projeto\Biblioteca\bin\Debug\Biblioteca.dll
+c:\users\william\source\repos\_01_Projeto\Biblioteca\bin\Debug\Biblioteca.pdb
+c:\users\william\source\repos\_01_Projeto\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+c:\users\william\source\repos\_01_Projeto\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+c:\users\william\source\repos\_01_Projeto\Biblioteca\obj\Debug\Biblioteca.dll
+c:\users\william\source\repos\_01_Projeto\Biblioteca\obj\Debug\Biblioteca.pdb
